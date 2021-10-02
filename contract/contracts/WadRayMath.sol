@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: agpl-3.0
-pragma solidity 0.6.12;
+pragma solidity ^0.8.0;
 
-import {Errors} from '../helpers/Errors.sol';
+import {Errors} from './Errors.sol';
 
 /**
  * @title WadRayMath library
