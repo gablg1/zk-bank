@@ -1,3 +1,3 @@
-# Loans
+# zk-Bank
 
-Uncollateralized Crypto loans.
+Zero Knowledge Bank. Uncollateralized Crypto loans entirely on chain.
